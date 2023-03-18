@@ -1,4 +1,3 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/127793430?v=4" alt ="DK" /></p>
 <h1 align="center">Hi 👋, I'm Dawid Kurowski</h1>
 <h3 align="center">Student | Freelacne Graphic Designer</h3>
 
